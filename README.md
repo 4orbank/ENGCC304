@@ -1,21 +1,34 @@
-# ENGCC304 Project and Lab
+# ENGCC304 - Software Engineering
 
-โปรแจ็กและแล็ปสำหรับวิชา ENGCC304 เพื่อเรียนรู้และส่งงาน
-
----
-
-## ผู้จัดทำ
-- ชื่อ: ธนาคาร ลือนาม
+# 👋 Hi there! I'm Tanakhan Luenam (Bank)
 
 ---
 
-## รายละเอียดโปรแจ็กและแล็ป
-โปรแจ็กและแล็ปนี้จัดทำขึ้นเพื่อใช้ในการเรียนรู้และส่งงานในวิชา ENGCC304  
-(สามารถเพิ่มรายละเอียดเพิ่มเติมเกี่ยวกับโปรแจ็กและแล็ปได้ที่นี่)
+### 👤 Personal Information
+- **Full Name:** Tanakhan Luenam  
+- **Nickname:** Bank  
+- **Age:** 19  
+- **Student ID:** 68543210028-5  
 
 ---
 
-## วิธีใช้งาน
-1. โคลนรีโพสนี้ด้วยคำสั่ง  
-   ```bash
-   git clone <URL-ของรีโพส>
+### 📚 Course Information
+- **Course Code:** ENGCC304  
+- **Role:** Collaborate with friends to submit assignments, complete labs, and projects regularly.  
+
+---
+
+### 🚀 About This Repository
+This repository contains all the lab exercises, assignments, and projects for the ENGCC304 course.  
+
+---
+
+### 📫 Contact Me
+# Gmail : Tanakhanluenam@gmail.com
+# Tel : +66 98 439 2928
+# Ig : bxnk.tx
+# X : tnkbankkkkk 
+
+---
+
+Thanks for visiting! 😊
