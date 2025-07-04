@@ -23,11 +23,10 @@ This repository contains all the lab exercises, assignments, and projects for th
 
 ---
 
-### 📫 Contact Me
-# Gmail : Tanakhanluenam@gmail.com
-# Tel : +66 98 439 2928
-# Ig : bxnk.tx
-# X : tnkbankkkkk 
+- 📧 **Email:** [tanakhanluenam@gmail.com](mailto:tanakhanluenam@gmail.com)  
+- 📱 **Phone:** +66 98 439 2928  
+- 📸 **Instagram:** [@bxnk.tx](https://instagram.com/bxnk.tx)  
+- 🐦 **X (Twitter):** [@tnkbankkkkk](https://x.com/tnkbankkkkk)
 
 ---
 
