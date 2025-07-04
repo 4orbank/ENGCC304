@@ -1,20 +1,21 @@
-# ENGCC304 - Software Engineering Project
+# ENGCC304 Project and Lab
 
-## 📌 Project Overview
+โปรแจ็กและแล็ปสำหรับวิชา ENGCC304 เพื่อเรียนรู้และส่งงาน
 
-This project is developed for the course **ENGCC304: Software Engineering**.  
-It demonstrates the application of software development lifecycle, including planning, design, coding, testing, and deployment.
+---
 
-## 🛠 Technologies Used
+## ผู้จัดทำ
+- ชื่อ: ธนาคาร ลือนาม
 
-- ✅ Visual Studio Code
-- ✅ Git & GitHub
-- ✅ SQLite / MySQL / Firebase (เลือกตามที่ใช้)
+---
 
-## 🚀 Features
+## รายละเอียดโปรแจ็กและแล็ป
+โปรแจ็กและแล็ปนี้จัดทำขึ้นเพื่อใช้ในการเรียนรู้และส่งงานในวิชา ENGCC304  
+(สามารถเพิ่มรายละเอียดเพิ่มเติมเกี่ยวกับโปรแจ็กและแล็ปได้ที่นี่)
 
-- 🔹 User-friendly interface
-- 🔹 CRUD operations
-- 🔹 Responsive design
-- 🔹 Authentication & Authorization
-- 🔹 [Add more f]()
+---
+
+## วิธีใช้งาน
+1. โคลนรีโพสนี้ด้วยคำสั่ง  
+   ```bash
+   git clone <URL-ของรีโพส>
