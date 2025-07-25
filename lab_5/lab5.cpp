@@ -26,7 +26,7 @@ int main() {
         printf("C+\n");
     } else if (score < 75) {
         printf("B\n");
-    } else if (score <= 80) {
+    } else if (score < 80) {
         printf("B+\n");
     } else {
         printf("A\n");
